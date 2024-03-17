@@ -20,7 +20,7 @@ const Header: React.FC = () => {
   }
 
   return (
-    <header className=" max-w-7xl max-w-full">
+    <header className=" w-7xl max-w-full">
       <div className="header-wrapper">
         <Link href="/" className="logo">
           <Image

@@ -17,7 +17,7 @@ const navItems: INavItems[] = [
   },
   {
     title: "Usługi",
-    path: "#",
+    path: "/services",
   },
   {
     title: "Galeria",
